@@ -93,8 +93,3 @@
         <image src="{{phone}}"  onclick="phoneclick" style=" width:30px;height:30px"></image>
     </div>
 </div>
-
-
-
-
-
