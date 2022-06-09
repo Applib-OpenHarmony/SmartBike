@@ -1,0 +1,14 @@
+{
+	"BuildOptions":{
+		"SELECT_BUILD_TARGET":"default",
+		"BUILD_PATH":{
+			"OUTPUT_PATH":"/Users/manju/Desktop/SmartBike-1/entry/build/default/outputs/default",
+			"RES_PATH":"/Users/manju/Desktop/SmartBike-1/entry/build/default/intermediates/res/default",
+			"ETS_SUPER_VISUAL_PATH":"/Users/manju/Desktop/SmartBike-1/entry/build/default/cache/default/CompileETS",
+			"JS_ASSETS_PATH":"/Users/manju/Desktop/SmartBike-1/entry/build/default/intermediates/assets/default",
+			"RES_PROFILE_PATH":"/Users/manju/Desktop/SmartBike-1/entry/build/default/intermediates/res/default/resources/base/profile",
+			"WORKER_LOADER":"/Users/manju/Desktop/SmartBike-1/entry/build/default/intermediates/loader/default/loader.json",
+			"MANIFEST_JSON":"/Users/manju/Desktop/SmartBike-1/entry/build/default/intermediates/manifest/default"
+		}
+	}
+}
