@@ -159,10 +159,10 @@ export default {
     }
 ,
     time_calc() {
-        var today = new Date();
-        var hr = today.getHours();
-        var min = today.getMinutes();
-        var ampm = "PM";
+        let today = new Date();
+        let hr = today.getHours();
+        let min = today.getMinutes();
+        let ampm = "PM";
         if (hr > 12) {
             hr = hr - 12;
         }
