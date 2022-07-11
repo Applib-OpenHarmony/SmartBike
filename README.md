@@ -7,7 +7,7 @@
 https://user-images.githubusercontent.com/79219844/168660930-e7e3ab41-a739-4c30-b3ff-2bdaeea9872d.mov
 
 ## Compatibility
-Supports OpenHarmony API version 8
+Supports OpenHarmony API version 9
 
 
 ## Open source License
